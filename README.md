@@ -16,13 +16,44 @@ I'm **frontend developer** passionate about creating seamless websites and web a
 
 ## Essential Tool I Use
 
-<p>Discover the powerful tools and technologies I use to create , High-Performing websites & applications.</p>
+**Discover the powerful tools and technologies I use to create , High-Performing websites & applications.**
 
 <div class="skills-div">
+  <img
+              width="50"
+              height="50"
+              src="https://img.icons8.com/fluency/50/javascript.png"
+              alt="javascript"
+            />
+            <img
+              width="48"
+              height="48"
+              src="https://img.icons8.com/color/48/react-native.png"
+              alt="react-js"
+            />
          <img
               width="48"
               height="48"
               src="https://img.icons8.com/color/48/html-5--v1.png"
-              alt="html-5--v1"
+              alt="html-5-"
+            />
+             <img
+              width="48"
+              height="48"
+              src="https://img.icons8.com/color/48/css3.png"
+              alt="css3"
+            />
+             <img
+              width="48"
+              height="48"
+              src="https://img.icons8.com/color/48/tailwindcss.png"
+              alt="tailwindcss"
+            />
+             <img
+              width="48"
+              height="48"
+              src="https://img.icons8.com/color/48/git.png"
+              alt="git"
+              className="z-10"
             />
 </div>
