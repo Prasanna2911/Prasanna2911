@@ -61,7 +61,7 @@ I'm **frontend developer** passionate about creating seamless websites and web a
 <div class="badges-githubstats">
 <p align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna2911&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna2911&layout=compact&theme=tokyonight&hide_border=true" alt="Prasanna2911's Most Used Languages" height="165">
 
 </p>
 </div>
