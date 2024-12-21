@@ -3,4 +3,6 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Prasanna2911)
 
-<p>I'm <b>Frontend Developer</b></p>
+<p>I'm <b>frontend developer</b>passionate about creating seamless websites and web applications. I specialize in crafting responsive, user-friendly designs that deliver exceptional user experiences. My dedication to developing modern, scalable websites reflects my love for web development and innovation.</p>
+
+- 🌱 I'm Curretly Learning React JS
