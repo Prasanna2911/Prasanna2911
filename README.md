@@ -57,3 +57,11 @@ I'm **frontend developer** passionate about creating seamless websites and web a
               className="z-10"
             />
 </div>
+
+<div class="badges-githubstats">
+<p align="center">
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna2911&layout=compact&theme=dark)
+
+</p>
+</div>
