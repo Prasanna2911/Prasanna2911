@@ -66,10 +66,14 @@ I'm **frontend developer** passionate about creating seamless websites and web a
             />
 </div>
 
+## 📈 My GitHub stats
+
 <div class="badges-githubstats">
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna2911&layout=compact&theme=tokyonight&hide_border=true" alt="Prasanna2911's Most Used Languages" height="165">
+<!-- github Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasanna2911&theme=tokyonight&hide_border=true" alt="Prasanna2911's Streak" height="165">
 
 </p>
 </div>
