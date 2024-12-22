@@ -64,6 +64,7 @@ I'm **frontend developer** passionate about creating seamless websites and web a
               alt="git"
               className="z-10"
             />
+            <img width="50" height="50" src="https://img.icons8.com/fluency/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 </div>
 
 ## 📈 My GitHub stats
