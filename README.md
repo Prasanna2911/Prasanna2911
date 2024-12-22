@@ -14,6 +14,14 @@ I'm **frontend developer** passionate about creating seamless websites and web a
 - 👨‍💻 All of my projects are available at [https://prasanna-one.vercel.app/](https://prasanna-one.vercel.app)
 - 💼 Interested in working together? Reach out to me via <a href="mailto:prasannabp2004@gmail.com">email.</a>
 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+ <a href="https://www.linkedin.com/in/bpprasanna2911/" target="_blank">
+  <img width="50" height="50" src="https://img.icons8.com/fluency/50/linkedin.png" alt="linkedin"/>
+ </a> 
+</p>
+
 ## Essential Tool I Use
 
 **Discover the powerful tools and technologies I use to create , High-Performing websites & applications.**
