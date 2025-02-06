@@ -10,7 +10,7 @@ I'm **frontend developer** passionate about creating seamless websites and web a
 
 </div>
 
-- 🌱 I'm Currently at an <b> Intermediate level</b>in<b>React JS</b>
+- 🌱 I'm Currently at an <b> Intermediate level</b> in <b>React JS</b>
 - 👨‍💻 All of my projects are available at [https://prasanna-one.vercel.app/](https://prasanna-one.vercel.app)
 - 💼 Interested in working together? Reach out to me via <a href="mailto:prasannabp2004@gmail.com">email.</a>
 
